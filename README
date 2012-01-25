@@ -1,0 +1,25 @@
+Name: Meghanad Shingate (09307608)
+
+Part-2 and Part-3
+==================
+
+------------------------------------
+*NOTE* run "SIMU_FINAL_RUN_THIS.m" file
+-------------------------------------
+
+this folder contains,
+
+1. SIMU_FINAL_RUN_THIS.m	main file
+2. RANDOM.m			Generate random numver (1/-1)
+3. RCS_PLATE.m			Calculates RCS of plate with given specs
+4. RCS_SCATT.m			Calculates RCS of Scaterers as per specs(See details about scatterers in report.pdf file)
+5. Report.pdf			short report
+
+you can give different trajectories as input to simulation:
+
+
+6. TrajSin.m		Sine trajectory
+7. TraRay.m		Rayleigh trajectory
+8. TrajExp.m		Exponential trajectory
+
+
